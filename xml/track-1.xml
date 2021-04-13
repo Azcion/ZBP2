@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="track.css"?>
-<!DOCTYPE track SYSTEM "C:\Users\Zak\Documents\xml\xml\track.dtd">
+<!DOCTYPE track SYSTEM "track.dtd">
 
 <track
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

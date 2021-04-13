@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4ba9932-2cfd-48e2-9797-fb731a5bd1b2" name="Default Changelist" comment="" />
+    <list default="true" id="c4ba9932-2cfd-48e2-9797-fb731a5bd1b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/controls.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/css/controls.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/css/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/player.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/css/player.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/track.css" beforeDir="false" afterPath="$PROJECT_DIR$/page/css/track.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter-v3-latin-200.woff" beforeDir="false" afterPath="$PROJECT_DIR$/page/fonts/inter-v3-latin-200.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter-v3-latin-200.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/page/fonts/inter-v3-latin-200.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter-v3-latin-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/page/fonts/inter-v3-latin-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter-v3-latin-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/page/fonts/inter-v3-latin-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/controls.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/js/controls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/page/js/player.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +48,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1r55a89v5LUTiX3YD6keoXmY5cw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,18 +61,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/track-2.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\XML\ZBP2\page" />
       <recent name="C:\Users\Zak\Documents\xml\xml" />
       <recent name="C:\Users\Zak\Documents\xml\js" />
       <recent name="C:\Users\Zak\Documents\xml\css" />
       <recent name="C:\Users\Zak\Documents\xml\fonts" />
-      <recent name="C:\Users\Zak\Documents\xml" />
     </key>
   </component>
   <component name="RunManager" selected="XSLT.Transform">
@@ -45,7 +80,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Transform" type="XSLT" factoryName="XSLT" temporary="true">
-      <option name="myOutputFile" value="C:\Users\Zak\Documents\xml\result.html" />
+      <option name="myOutputFile" value="C:\Projects\XML\ZBP2\page\result.html" />
       <option name="myOpenOutputFile" value="true" />
       <option name="myOpenInBrowser" value="true" />
       <option name="mySmartErrorHandling" value="true" />
@@ -82,11 +117,23 @@
       <option name="presentableId" value="Default" />
       <updated>1618253170646</updated>
       <workItem from="1618253171722" duration="53344000" />
+      <workItem from="1618350164970" duration="515000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="479" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618347064415">
