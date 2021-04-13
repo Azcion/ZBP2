@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="track.css"?>
+<!DOCTYPE track SYSTEM "C:\Users\Zak\Documents\xml\xml\track.dtd">
+
+<track
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="track.xsd">
+  <id>3pXVWgkWybiGchdKGYDgdl</id>
+  <name>Heat Waves (with iann dior)</name>
+  <explicit>false</explicit>
+  <popularity>63</popularity>
+  <preview_url>https://p.scdn.co/mp3-preview/7d5595f2ce7fefa4d1bc43dcce7c3cd69d81fe6c?cid=774b29d4f13844c495f206cafdad9c86</preview_url>
+  <track_number>1</track_number>
+  <duration_ms>175301</duration_ms>
+  <artists>
+    <artist>
+      <id>4yvcSjfu4PC0CYQyLy4wSq</id>
+      <name>Glass Animals</name>
+    </artist>
+    <artist>
+      <id>6ASri4ePR7RlsvIQgWPJpS</id>
+      <name>iann dior</name>
+    </artist>
+  </artists>
+  <album>
+    <name>Faded Love</name>
+    <release_date>2021-03-25</release_date>
+    <release_date_precision>day</release_date_precision>
+    <total_tracks>2</total_tracks>
+    <artists>
+      <artist>
+        <id>4yvcSjfu4PC0CYQyLy4wSq</id>
+        <name>Glass Animals</name>
+      </artist>
+    </artists>
+    <image>
+      <height>640</height>
+      <width>640</width>
+      <url>https://i.scdn.co/image/ab67616d0000b273617adf73c369292cb71457b7</url>
+    </image>
+  </album>
+</track>

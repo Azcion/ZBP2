@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="track.css"?>
+<!DOCTYPE track SYSTEM "C:\Users\Zak\Documents\xml\xml\track.dtd">
+
+<track
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="track.xsd">
+  <id>4S7YHmlWwfwArgd8LfSPud</id>
+  <name>L$D</name>
+  <explicit>true</explicit>
+  <popularity>77</popularity>
+  <preview_url>https://p.scdn.co/mp3-preview/8b71919390097cca1e65c1787cc879556f1a571c?cid=774b29d4f13844c495f206cafdad9c86</preview_url>
+  <track_number>4</track_number>
+  <duration_ms>238306</duration_ms>
+  <artists>
+    <artist>
+      <id>13ubrt8QOOCPljQ2FL1Kca</id>
+      <name>A$AP Rocky</name>
+    </artist>
+  </artists>
+  <album>
+    <name>AT.LONG.LAST.A$AP</name>
+    <release_date>2015-05-26</release_date>
+    <release_date_precision>day</release_date_precision>
+    <total_tracks>18</total_tracks>
+    <artists>
+      <artist>
+        <id>13ubrt8QOOCPljQ2FL1Kca</id>
+        <name>A$AP Rocky</name>
+      </artist>
+    </artists>
+    <image>
+      <height>640</height>
+      <width>640</width>
+      <url>https://i.scdn.co/image/ab67616d0000b27381a6a2cafab2e7a4066b5eec</url>
+    </image>
+  </album>
+</track>

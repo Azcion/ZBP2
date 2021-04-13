@@ -1,0 +1,18 @@
+<!ELEMENT track (id, name, explicit, popularity, preview_url, track_number, duration_ms, artists, album)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT explicit (#PCDATA)>
+<!ELEMENT popularity (#PCDATA)>
+<!ELEMENT preview_url (#PCDATA)>
+<!ELEMENT track_number (#PCDATA)>
+<!ELEMENT duration_ms (#PCDATA)>
+<!ELEMENT artists (artist+)>
+<!ELEMENT artist (id, name)>
+<!ELEMENT album (name, release_date, release_date_precision, total_tracks, artists, image)>
+<!ELEMENT release_date (#PCDATA)>
+<!ELEMENT release_date_precision (#PCDATA)>
+<!ELEMENT total_tracks (#PCDATA)>
+<!ELEMENT image (height, width, url)>
+<!ELEMENT height (#PCDATA)>
+<!ELEMENT width (#PCDATA)>
+<!ELEMENT url (#PCDATA)>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+  elementFormDefault="qualified"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="track" type="trackType"/>
+
+  <xs:complexType name="artistType">
+    <xs:all>
+      <xs:element type="xs:string" name="id"/>
+      <xs:element type="xs:string" name="name"/>
+    </xs:all>
+  </xs:complexType>
+
+  <xs:complexType name="artistsType">
+    <xs:choice>
+      <xs:element type="artistType" name="artist" maxOccurs="unbounded"/>
+    </xs:choice>
+  </xs:complexType>
+
+  <xs:complexType name="imageType">
+    <xs:all>
+      <xs:element type="xs:short" name="height"/>
+      <xs:element type="xs:short" name="width"/>
+      <xs:element type="xs:string" name="url"/>
+    </xs:all>
+  </xs:complexType>
+
+  <xs:simpleType name="release_date_precision" final="restriction">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="day"/>
+      <xs:enumeration value="month"/>
+      <xs:enumeration value="year"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:complexType name="albumType">
+    <xs:all>
+      <xs:element type="xs:string" name="name"/>
+      <xs:element type="xs:date" name="release_date"/>
+      <xs:element type="release_date_precision" name="release_date_precision"/>
+      <xs:element type="xs:byte" name="total_tracks"/>
+      <xs:element type="artistsType" name="artists"/>
+      <xs:element type="imageType" name="image"/>
+    </xs:all>
+  </xs:complexType>
+
+  <xs:complexType name="trackType">
+    <xs:all>
+      <xs:element type="xs:string" name="id"/>
+      <xs:element type="xs:string" name="name"/>
+      <xs:element type="xs:boolean" name="explicit"/>
+      <xs:element type="xs:byte" name="popularity"/>
+      <xs:element type="xs:string" name="preview_url"/>
+      <xs:element type="xs:byte" name="track_number" minOccurs="0"/>
+      <xs:element type="xs:int" name="duration_ms"/>
+      <xs:element type="artistsType" name="artists"/>
+      <xs:element type="albumType" name="album"/>
+    </xs:all>
+  </xs:complexType>
+
+</xs:schema>

@@ -1,0 +1,53 @@
+body {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position-y: -100px;
+	backdrop-filter: blur(50px);
+	margin: 0;
+}
+
+#wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#column {
+	flex-direction: column;
+	padding: 10px 10px 100px 10px;
+	max-width: 320px;
+	background-color: white;
+	border-radius: 10px;
+	-webkit-box-shadow: 0px 4px 16px 0px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0px 4px 16px 0px rgba(0,0,0,0.1);
+	box-shadow: 0px 4px 16px 0px rgba(0,0,0,0.1);
+}
+
+img {
+	width: 320px;
+	display: block;
+}
+
+#text {
+	font-family: 'Inter', sans-serif;
+	font-weight: 500;
+	margin: 50px 20px 20px 22px;
+}
+
+#title, #artists {
+	margin: 0;
+}
+
+#title {
+	font-size: 26px;
+}
+
+#artists {
+	font-size: 16px;
+}
+
+p {
+	white-space: nowrap;
+	overflow: hidden;
+	-webkit-mask-image: linear-gradient(90deg, rgba(0,0,0,1) 85%, rgba(0,0,0,0) 100%);
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="track.css"?>
+<!DOCTYPE track SYSTEM "C:\Users\Zak\Documents\xml\xml\track.dtd">
+
+<track
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="track.xsd">
+  <id>0BJmDoQl8AwElUL7lMEuB8</id>
+  <name>Faded Love</name>
+  <explicit>false</explicit>
+  <popularity>56</popularity>
+  <preview_url>https://p.scdn.co/mp3-preview/5bbc377e4e0d05cd03010e4f005e82521668f6f9?cid=774b29d4f13844c495f206cafdad9c86</preview_url>
+  <track_number>1</track_number>
+  <duration_ms>148345</duration_ms>
+  <artists>
+    <artist>
+      <id>2NpPlwwDVYR5dIj0F31EcC</id>
+      <name>Leony</name>
+    </artist>
+  </artists>
+  <album>
+    <name>Faded Love</name>
+    <release_date>2021-01-15</release_date>
+    <release_date_precision>day</release_date_precision>
+    <total_tracks>1</total_tracks>
+    <artists>
+      <artist>
+        <id>2NpPlwwDVYR5dIj0F31EcC</id>
+        <name>Leony</name>
+      </artist>
+    </artists>
+    <image>
+      <height>640</height>
+      <width>640</width>
+      <url>https://i.scdn.co/image/ab67616d0000b273f4345db90a9552a500b2fafc</url>
+    </image>
+  </album>
+</track>
