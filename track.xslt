@@ -9,18 +9,18 @@
         <meta charset="UTF-8"/>
         <title>Track</title>
         <script type="text/javascript" src="js/player.js"> </script>
-        <script type="text/javascript" src="js/controls.js"> </script>
+        <script type="text/javascript" src="js/hover.js"> </script>
+        <script type="text/javascript" src="js/init.js"> </script>
         <link rel="stylesheet" href="css/player.min.css" type="text/css"/>
         <link rel="stylesheet" href="css/controls.css" type="text/css"/>
+        <link rel="stylesheet" href="css/hover.css" type="text/css"/>
         <link rel="stylesheet" href="css/track.css" type="text/css"/>
         <link rel="stylesheet" href="css/fonts.css" type="text/css"/>
     </head>
     <body>
-        <xsl:attribute name='style'>
-            background-image:url(<xsl:value-of select='album/image/url'/>);
-        </xsl:attribute>
+        <xsl:attribute name='style'>background-image:url(<xsl:value-of select='album/image/url'/>);</xsl:attribute>
 
-        <div style="height:100px">&#160;</div>
+        <div id="drop"/>
         <div id="wrapper">
             <div id="column">
                 <img alt="album art">
