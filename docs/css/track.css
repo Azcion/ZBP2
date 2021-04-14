@@ -3,11 +3,12 @@ body {
 	background-position: center;
 	background-position-y: -100px;
 	backdrop-filter: blur(50px);
+	-webkit-backdrop-filter: blur(50px);
 	margin: 0;
 }
 
 #drop {
-    height: 100px;
+	height: 100px;
 }
 
 #wrapper {
@@ -33,18 +34,18 @@ img {
 }
 
 #e:after {
-    content: 'EXPLICIT';
+	content: 'EXPLICIT';
 }
 
 #e {
-    font-family: 'Inter', sans-serif;
-    font-weight: 500;
-    font-size: 12px;
-    float: right;
-    border: 1px solid black;
-    border-radius: 5px;
-    padding: 0 4px;
-    margin: 7px 0;
+	font-family: 'Inter', sans-serif;
+	font-weight: 500;
+	font-size: 12px;
+	float: right;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 0 4px;
+	margin: 7px 0;
 }
 
 #text {
@@ -72,6 +73,6 @@ p {
 }
 
 a {
-    text-decoration: none;
-    color: inherit;
+	text-decoration: none;
+	color: inherit;
 }
