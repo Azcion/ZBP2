@@ -2,10 +2,8 @@
 <xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match='track'>
-
 <html lang="en">
     <head>
-
         <meta charset="UTF-8"/>
         <title>Track</title>
         <script type="text/javascript" src="js/player.js"> </script>
@@ -19,7 +17,6 @@
     </head>
     <body>
         <xsl:attribute name='style'>background-image:url(<xsl:value-of select='album/image/url'/>);</xsl:attribute>
-
         <div id="drop"/>
         <div id="wrapper">
             <div id="column">
@@ -59,10 +56,7 @@
                 </div>
             </div>
         </div>
-
     </body>
 </html>
-
 </xsl:template>
-
 </xsl:transform>
