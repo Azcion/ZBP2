@@ -29,7 +29,7 @@
                     </xsl:attribute>
                 </img>
                 <xsl:if test='explicit="true"'>
-                    <div id="explicit">EXPLICIT</div>
+                    <div id="e"/>
                 </xsl:if>
                 <div id="text">
                     <p id="title">

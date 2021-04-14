@@ -32,7 +32,11 @@ img {
 	display: block;
 }
 
-#explicit {
+#e:after {
+    content: 'EXPLICIT';
+}
+
+#e {
     font-family: 'Inter', sans-serif;
     font-weight: 500;
     font-size: 12px;
@@ -40,6 +44,7 @@ img {
     border: 1px solid black;
     border-radius: 5px;
     padding: 0 4px;
+    margin: 7px 0;
 }
 
 #text {

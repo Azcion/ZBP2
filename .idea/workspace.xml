@@ -21,12 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c4ba9932-2cfd-48e2-9797-fb731a5bd1b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/hover.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/hover.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/css/track.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/track.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/js/hover.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/hover.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/result-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/r1.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/r1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/track.xslt" beforeDir="false" afterPath="$PROJECT_DIR$/track.xslt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml/track-3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/track-3.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +74,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Transform" type="XSLT" factoryName="XSLT" temporary="true">
-      <option name="myOutputFile" value="C:\Projects\XML\ZBP2\docs\result-3.html" />
+      <option name="myOutputFile" value="C:\Projects\XML\ZBP2\docs\r1.html" />
       <option name="myOpenOutputFile" value="true" />
       <option name="myOpenInBrowser" value="true" />
       <option name="mySmartErrorHandling" value="true" />
@@ -87,7 +84,7 @@
       <option name="myModule" />
       <option name="myJdk" />
       <XsltFile url="file://$PROJECT_DIR$/track.xslt" />
-      <XmlFile url="file://$PROJECT_DIR$/xml/track-3.xml" />
+      <XmlFile url="file://$PROJECT_DIR$/xml/track-1.xml" />
       <parameters />
       <OutputType value="CONSOLE" save-to-file="true" />
       <FileType name="XHTML" />
@@ -114,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618253170646</updated>
       <workItem from="1618253171722" duration="53344000" />
-      <workItem from="1618350164970" duration="10780000" />
+      <workItem from="1618350164970" duration="12085000" />
     </task>
     <servers />
   </component>
@@ -153,38 +150,38 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="805" y="331" key="FileChooserDialogImpl/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361195267" />
-    <state width="2027" height="318" key="GridCell.Tab.0.bottom" timestamp="1618361565931">
+    <state width="2027" height="318" key="GridCell.Tab.0.bottom" timestamp="1618362455043">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.bottom/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
-    <state width="2027" height="318" key="GridCell.Tab.0.center" timestamp="1618361565931">
+    <state width="2027" height="318" key="GridCell.Tab.0.bottom/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618362455043" />
+    <state width="2027" height="318" key="GridCell.Tab.0.center" timestamp="1618362455042">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.center/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
-    <state width="2027" height="318" key="GridCell.Tab.0.left" timestamp="1618361565931">
+    <state width="2027" height="318" key="GridCell.Tab.0.center/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618362455042" />
+    <state width="2027" height="318" key="GridCell.Tab.0.left" timestamp="1618362455042">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.left/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
-    <state width="2027" height="318" key="GridCell.Tab.0.right" timestamp="1618361565931">
+    <state width="2027" height="318" key="GridCell.Tab.0.left/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618362455042" />
+    <state width="2027" height="318" key="GridCell.Tab.0.right" timestamp="1618362455042">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.right/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
-    <state width="2027" height="318" key="GridCell.Tab.1.bottom" timestamp="1618361565931">
+    <state width="2027" height="318" key="GridCell.Tab.0.right/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618362455042" />
+    <state width="2027" height="318" key="GridCell.Tab.1.bottom" timestamp="1618362455043">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.1.bottom/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
-    <state width="2027" height="318" key="GridCell.Tab.1.center" timestamp="1618361565931">
+    <state width="2027" height="318" key="GridCell.Tab.1.bottom/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618362455043" />
+    <state width="2027" height="318" key="GridCell.Tab.1.center" timestamp="1618362455043">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.1.center/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
-    <state width="2027" height="318" key="GridCell.Tab.1.left" timestamp="1618361565931">
+    <state width="2027" height="318" key="GridCell.Tab.1.center/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618362455043" />
+    <state width="2027" height="318" key="GridCell.Tab.1.left" timestamp="1618362455043">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.1.left/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
-    <state width="2027" height="318" key="GridCell.Tab.1.right" timestamp="1618361565931">
+    <state width="2027" height="318" key="GridCell.Tab.1.left/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618362455043" />
+    <state width="2027" height="318" key="GridCell.Tab.1.right" timestamp="1618362455043">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.1.right/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
+    <state width="2027" height="318" key="GridCell.Tab.1.right/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618362455043" />
     <state width="2025" height="163" key="GridCell.Tab.2.bottom" timestamp="1618349887665">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
