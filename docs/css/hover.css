@@ -3,7 +3,7 @@
 }
 
 #column {
-    transition: transform 0.1s;
+    transition: transform 0.05s;
     -webkit-transition: transform 0.1s;
     box-shadow: 2px 2px 50px rgba(0, 0, 0, 0.2);
 }

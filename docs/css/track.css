@@ -32,6 +32,16 @@ img {
 	display: block;
 }
 
+#explicit {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    float: right;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 0 4px;
+}
+
 #text {
 	font-family: 'Inter', sans-serif;
 	font-weight: 500;
@@ -54,4 +64,9 @@ p {
 	white-space: nowrap;
 	overflow: hidden;
 	-webkit-mask-image: linear-gradient(90deg, rgba(0,0,0,1) 85%, rgba(0,0,0,0) 100%);
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
 }

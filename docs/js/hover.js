@@ -29,7 +29,7 @@ window.onload = function() {
 	//----------------------------------------------------
 
 	var counter = 0;
-	var refreshRate = 30;
+	var refreshRate = 2;
 	var isTimeToUpdate = function() {
 		return counter++ % refreshRate === 0;
 	};

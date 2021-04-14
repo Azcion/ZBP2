@@ -28,9 +28,25 @@
                         <xsl:value-of select='album/image/url'/>
                     </xsl:attribute>
                 </img>
+                <xsl:if test='explicit="true"'>
+                    <div id="explicit">EXPLICIT</div>
+                </xsl:if>
                 <div id="text">
-                    <p id="title"><xsl:value-of select='name'/></p>
-                    <p id="artists"><xsl:value-of select='artists/artist/name'/></p>
+                    <p id="title">
+                        <a>
+                            <xsl:attribute name='href'>https://open.spotify.com/track/<xsl:value-of select='id'/></xsl:attribute>
+                            <xsl:value-of select='name'/>
+                        </a>
+                    </p>
+                    <p id="artists">
+                        <xsl:for-each select='artists/artist'>
+                            <a>
+                                <xsl:attribute name='href'>https://open.spotify.com/artist/<xsl:value-of select='id'/></xsl:attribute>
+                                <xsl:value-of select='name'/>
+                            </a>
+                            <xsl:if test='not(position()=last())'>, </xsl:if>
+                        </xsl:for-each>
+                    </p>
                 </div>
                 <div class="audio">
                     <audio>

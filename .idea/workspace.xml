@@ -21,19 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c4ba9932-2cfd-48e2-9797-fb731a5bd1b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/css/controls.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/controls.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/css/player.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/player.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/css/track.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/track.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/fonts/inter-v3-latin-200.woff" beforeDir="false" afterPath="$PROJECT_DIR$/docs/fonts/inter-v3-latin-200.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/fonts/inter-v3-latin-200.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/docs/fonts/inter-v3-latin-200.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/fonts/inter-v3-latin-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/docs/fonts/inter-v3-latin-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/fonts/inter-v3-latin-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/docs/fonts/inter-v3-latin-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/js/controls.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/js/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/player.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/hover.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/hover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/track.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/track.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/hover.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/js/hover.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/result-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/track.xslt" beforeDir="false" afterPath="$PROJECT_DIR$/track.xslt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml/track-3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml/track-3.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +36,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -65,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xml/track-1.xml" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -84,7 +77,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Transform" type="XSLT" factoryName="XSLT" temporary="true">
-      <option name="myOutputFile" value="C:\Projects\XML\ZBP2\page\result.html" />
+      <option name="myOutputFile" value="C:\Projects\XML\ZBP2\docs\result-3.html" />
       <option name="myOpenOutputFile" value="true" />
       <option name="myOpenInBrowser" value="true" />
       <option name="mySmartErrorHandling" value="true" />
@@ -121,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618253170646</updated>
       <workItem from="1618253171722" duration="53344000" />
-      <workItem from="1618350164970" duration="3829000" />
+      <workItem from="1618350164970" duration="10780000" />
     </task>
     <servers />
   </component>
@@ -140,6 +133,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="821" y="305" key="#XSLT_File_Associations" timestamp="1618360914997">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="821" y="305" key="#XSLT_File_Associations/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618360914997" />
     <state x="479" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618347064415">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -152,42 +149,42 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="755" y="323" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618284985955" />
-    <state x="805" y="331" key="FileChooserDialogImpl" timestamp="1618346440605">
+    <state x="805" y="331" key="FileChooserDialogImpl" timestamp="1618361195267">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="805" y="331" key="FileChooserDialogImpl/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618346440605" />
-    <state width="2027" height="318" key="GridCell.Tab.0.bottom" timestamp="1618352539271">
+    <state x="805" y="331" key="FileChooserDialogImpl/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361195267" />
+    <state width="2027" height="318" key="GridCell.Tab.0.bottom" timestamp="1618361565931">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.bottom/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618352539271" />
-    <state width="2027" height="318" key="GridCell.Tab.0.center" timestamp="1618352539270">
+    <state width="2027" height="318" key="GridCell.Tab.0.bottom/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
+    <state width="2027" height="318" key="GridCell.Tab.0.center" timestamp="1618361565931">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.center/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618352539270" />
-    <state width="2027" height="318" key="GridCell.Tab.0.left" timestamp="1618352539270">
+    <state width="2027" height="318" key="GridCell.Tab.0.center/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
+    <state width="2027" height="318" key="GridCell.Tab.0.left" timestamp="1618361565931">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.left/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618352539270" />
-    <state width="2027" height="318" key="GridCell.Tab.0.right" timestamp="1618352539271">
+    <state width="2027" height="318" key="GridCell.Tab.0.left/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
+    <state width="2027" height="318" key="GridCell.Tab.0.right" timestamp="1618361565931">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.right/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618352539271" />
-    <state width="2027" height="318" key="GridCell.Tab.1.bottom" timestamp="1618352539271">
+    <state width="2027" height="318" key="GridCell.Tab.0.right/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
+    <state width="2027" height="318" key="GridCell.Tab.1.bottom" timestamp="1618361565931">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.1.bottom/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618352539271" />
-    <state width="2027" height="318" key="GridCell.Tab.1.center" timestamp="1618352539271">
+    <state width="2027" height="318" key="GridCell.Tab.1.bottom/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
+    <state width="2027" height="318" key="GridCell.Tab.1.center" timestamp="1618361565931">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.1.center/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618352539271" />
-    <state width="2027" height="318" key="GridCell.Tab.1.left" timestamp="1618352539271">
+    <state width="2027" height="318" key="GridCell.Tab.1.center/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
+    <state width="2027" height="318" key="GridCell.Tab.1.left" timestamp="1618361565931">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.1.left/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618352539271" />
-    <state width="2027" height="318" key="GridCell.Tab.1.right" timestamp="1618352539271">
+    <state width="2027" height="318" key="GridCell.Tab.1.left/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
+    <state width="2027" height="318" key="GridCell.Tab.1.right" timestamp="1618361565931">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.1.right/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618352539271" />
+    <state width="2027" height="318" key="GridCell.Tab.1.right/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618361565931" />
     <state width="2025" height="163" key="GridCell.Tab.2.bottom" timestamp="1618349887665">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
@@ -224,5 +221,14 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="464" y="225" key="SettingsEditor/2560.153.1920.1080/-1920.139.1920.1080/0.0.2048.1152/-1350.1219.800.600@0.0.2048.1152" timestamp="1618269528840" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="ZBP2" type="b2602c69:ProjectViewProjectNode" />
+        <item name="ZBP2" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
