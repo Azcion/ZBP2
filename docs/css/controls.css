@@ -10,7 +10,7 @@
 }
 
 .holder {
-	left: calc(50% - 30px);
+	left: calc(50% - 24px);
 	top: 25px;
 	width: 48px;
 	transform: scale(1.25);
